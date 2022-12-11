@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="/home/niveus/Desktop/sona-php/php-example-phpunit/tests" tests="2" assertions="2" errors="0" warnings="0" failures="0" skipped="0" time="0.006224">
+    <testsuite name="CalculatorTest" file="/home/niveus/Desktop/sona-php/php-example-phpunit/tests/CalculatorTest.php" tests="2" assertions="2" errors="0" warnings="0" failures="0" skipped="0" time="0.006224">
+      <testcase name="testAdd" class="CalculatorTest" classname="CalculatorTest" file="/home/niveus/Desktop/sona-php/php-example-phpunit/tests/CalculatorTest.php" line="15" assertions="1" time="0.006174"/>
+      <testcase name="testSubtract" class="CalculatorTest" classname="CalculatorTest" file="/home/niveus/Desktop/sona-php/php-example-phpunit/tests/CalculatorTest.php" line="20" assertions="1" time="0.000050"/>
+    </testsuite>
+  </testsuite>
+</testsuites>

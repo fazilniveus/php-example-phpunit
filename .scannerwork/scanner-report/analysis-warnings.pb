@@ -1,0 +1,5 @@
+q
+hJavaScript/TypeScript/CSS rules were not executed. Only Node.js v14.17 or later is supported, got 10.19.åˆì“Ğ0Â
+¸Failed to resolve 1 file path(s) in PHPUnit tests phpunit.xml report. Nothing is imported related to file(s): /home/niveus/Desktop/sona-php/php-example-phpunit/tests/CalculatorTest.php˜ì“Ğ0•
+‹An error occurred when reading report file '/home/niveus/Desktop/sona-php/php-example-phpunit/build/coverage.xml', nothing will be imported from this report. IOException: /home/niveus/Desktop/sona-php/php-example-phpunit/build/coverage.xml (No such file or directory)šì“Ğ0ë
+áMissing blame information for 1 file. This may lead to some features not working correctly. Please check the analysis logs and refer to <a href="/documentation/analysis/scm-integration/" target="_blank">the documentation</a>.Áì“Ğ0

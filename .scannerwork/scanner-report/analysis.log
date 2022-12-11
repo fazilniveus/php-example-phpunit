@@ -1,0 +1,41 @@
+Plugins:
+Bundled analyzers:
+  - Python Code Quality and Security 3.19.0.10254 (python)
+  - Go Code Quality and Security 1.11.0.3905 (go)
+  - JaCoCo 1.1.1.1157 (jacoco)
+  - Kotlin Code Quality and Security 2.10.0.1456 (kotlin)
+  - IaC Code Quality and Security 1.9.2.2279 (iac)
+  - JavaScript/TypeScript/CSS Code Quality and Security 9.9.0.19492 (javascript)
+  - Ruby Code Quality and Security 1.11.0.3905 (ruby)
+  - Scala Code Quality and Security 1.11.0.3905 (sonarscala)
+  - C# Code Quality and Security 8.46.0.54807 (csharp)
+  - Java Code Quality and Security 7.14.0.30229 (java)
+  - HTML Code Quality and Security 3.6.0.3106 (web)
+  - Flex Code Quality and Security 2.7.0.2865 (flex)
+  - XML Code Quality and Security 2.6.1.3686 (xml)
+  - PHP Code Quality and Security 3.25.0.9077 (php)
+  - Text file Code Quality and Security 1.1.0.282 (text)
+  - VB.NET Code Quality and Security 8.46.0.54807 (vbnet)
+  - Configuration detection fot Code Quality and Security 1.2.0.267 (config)
+Global server settings:
+  - sonar.core.id=9CB61ADC-AYRROJZPKJYMSMImNfvY
+  - sonar.core.startTime=2022-12-11T16:11:49+0000
+  - sonar.forceAuthentication=true
+  - sonar.qualitygate.ignoreSmallChanges=false
+Project server settings:
+Project scanner properties:
+  - sonar.host.url=http://34.100.160.206:9000
+  - sonar.language=php
+  - sonar.login=******
+  - sonar.php.coverage.reportPaths=build/coverage.xml
+  - sonar.php.tests.reportPath=build/phpunit.xml
+  - sonar.projectBaseDir=/home/niveus/Desktop/sona-php/php-example-phpunit
+  - sonar.projectKey=php
+  - sonar.projectName=php
+  - sonar.projectVersion=1.0
+  - sonar.scanner.app=ScannerCli
+  - sonar.scanner.appVersion=4.2.0.1873
+  - sonar.sourceEncoding=UTF-8
+  - sonar.sources=.
+  - sonar.verbose=true
+  - sonar.working.directory=/home/niveus/Desktop/sona-php/php-example-phpunit/.scannerwork
